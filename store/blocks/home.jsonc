@@ -5,7 +5,8 @@
       "info-card",
       "info-card#button-right",
       "info-card#button-left",
-      "flex-layout.col"
+      "flex-layout.col",
+      "shelf"
     ]
   },
   "flex-layout.row":{
@@ -82,5 +83,5 @@
       "textAlignment": "center"
       
     }
-  } 
+  }
 }
