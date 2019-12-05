@@ -3,6 +3,7 @@
     "blocks": [
       "flex-layout.row",
       "info-card",
+      "slider-layout#home",
       "info-card#button-right",
       "info-card#button-left",
       "flex-layout.col",
