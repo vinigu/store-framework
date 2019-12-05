@@ -7,7 +7,7 @@
   "rick-text" : {
     "props":{
       "text": "*Hello, World!*",
-      "textPosition":"RIGHT"
+      "textPosition":"RIGHT" 
     }
   }
 }
