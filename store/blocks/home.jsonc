@@ -1,10 +1,10 @@
 {
   "store.home": { 
     "blocks": [
-      "rick-text"
+      "rich-text"
     ]
   },
-  "rick-text" : {
+  "rich-text" : {
     "props":{
       "text": "*Hello, World!*",
       "textPosition":"RIGHT" 
