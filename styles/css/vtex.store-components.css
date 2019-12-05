@@ -10,13 +10,12 @@
 .infoCardCallActionContainer :global(.vtex-button) {
     color: white;
     background-color: gray;
-    border: transparent;
     border: 1px solid gray;
     transition: .5s;
 }
 
 .infoCardCallActionContainer :global(.vtex-button):hover {
-    color: black;
+    color: gray;
     background-color: white;
     border: 1px solid black;
     transition: .5s;
